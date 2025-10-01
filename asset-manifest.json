@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayur-pande-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/mayur-pande-portfolio/static/js/main.c8bdab2c.js",
+    "static/js/453.37724b38.chunk.js": "/mayur-pande-portfolio/static/js/453.37724b38.chunk.js",
+    "index.html": "/mayur-pande-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/mayur-pande-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.c8bdab2c.js.map": "/mayur-pande-portfolio/static/js/main.c8bdab2c.js.map",
+    "453.37724b38.chunk.js.map": "/mayur-pande-portfolio/static/js/453.37724b38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c8bdab2c.js"
+  ]
+}
